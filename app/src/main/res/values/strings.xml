@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practica 9</string>
+    <string name="titulo_app">INICIO DE SESION</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="btn_inicio_sesion">INICIAR SESION</string>
+    <string name="titulo_mostrar_datos">INFORMACIÓN</string>
+    <string name="titulo_modificar">MODIFICAR</string>
+    <string name="btn_cierre_sesion">CERRAR SESION</string>
+    <string name="txt_registro">Registrarte</string>
+    <string name="titulo_registrar">REGISTRAR</string>
+    <string name="hint_reg_usuario">Usuario</string>
+    <string name="hint_reg_pass1">Contraseña</string>
+    <string name="hint_reg_pass2">Repite tu contraseña</string>
+    <string name="hint_reg_telefono">Telefono</string>
+    <string name="hint_reg_nombre">Nombre</string>
+    <string name="hint_reg_carrera">Carrera</string>
+    <string name="btn_reg_guardar">GUARDAR</string>
+    <string name="btn_mostrar_modificar">MODIFICAR</string>
+    <string name="btn_cancelar">CANCELAR</string>
+</resources>
